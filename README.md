@@ -47,19 +47,19 @@ student = {
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Dhruvvv0320/.git
+[git clone https://github.com/Dhruvvv0320/.git](https://github.com/Dhruvvv0320/Project-3_Collection_Manipulator.git)
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd student-data-organizer
+cd Collection_Manipulator.py
 ```
 
 ### Run the Program
 
 ```bash
-python try.py
+python Collection_Manipulator.py
 ```
 
 ---
@@ -81,61 +81,37 @@ python try.py
 
 ### Main Menu
 
-Replace with screenshot:
-
-```md
-![Main Menu](images/main-menu.png)
-```
+<img width="1366" height="286" alt="image" src="https://github.com/user-attachments/assets/f91ae01d-91ea-4db6-96c2-1fcb5240dacb" />
 
 ---
 
 ### Add Student
 
-Replace with screenshot:
-
-```md
-![Add Student](images/add-student.png)
-```
+<img width="1377" height="450" alt="image" src="https://github.com/user-attachments/assets/f3292eb6-808d-4398-8692-702ee73ba628" />
 
 ---
 
 ### Display Students
 
-Replace with screenshot:
-
-```md
-![Display Students](images/display-students.png)
-```
+<img width="1363" height="266" alt="image" src="https://github.com/user-attachments/assets/8c6a44f3-1c59-4d24-bfa4-0e006ffb3545" />
 
 ---
 
 ### Update Student
 
-Replace with screenshot:
-
-```md
-![Update Student](images/update-student.png)
-```
+<img width="1375" height="465" alt="image" src="https://github.com/user-attachments/assets/2e74ec7c-f31a-458d-807a-a59434089221" />
 
 ---
 
 ### Delete Student
 
-Replace with screenshot:
-
-```md
-![Delete Student](images/delete-student.png)
-```
+<img width="1368" height="277" alt="image" src="https://github.com/user-attachments/assets/eeecc0fa-fc6d-43d3-85fc-90ff86f1a5a4" />
 
 ---
 
 ### Subjects Offered
 
-Replace with screenshot:
-
-```md
-![Subjects](images/subjects.png)
-```
+<img width="1370" height="376" alt="image" src="https://github.com/user-attachments/assets/48e6ed26-e69b-4051-a525-9f0132c73b5a" />
 
 ---
 
